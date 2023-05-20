@@ -5,9 +5,9 @@
 ## Shootshot:
 ![](03-javascript-homework-demo.png)
 ##Deployment:
----
+https://aidancm1.github.io/Javascript-passwordgenerator/
 ##Github Repo:
-----
+https://github.com/Aidancm1/Javascript-passwordgenerator
 
 ##Acceptance Criteria
 GIVEN I need a new, secure password
