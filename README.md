@@ -4,9 +4,9 @@
 
 ## Shootshot:
 ![](03-javascript-homework-demo.png)
-##Deployment:
+## Deployment:
 https://aidancm1.github.io/Javascript-passwordgenerator/
-##Github Repo:
+## Github Repo:
 https://github.com/Aidancm1/Javascript-passwordgenerator
 
 ##Acceptance Criteria
